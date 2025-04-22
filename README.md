@@ -83,7 +83,3 @@ This was a team-based project. Responsibilities were divided across:
 - Integrate Power BI or Plotly for interactive dashboards  
 - Apply machine learning models for predictive analysis  
 - Automate data reporting and KPI tracking
-
----
-
-Let me know if you'd like to include your team members' names or customize this further for your GitHub portfolio or CV!
